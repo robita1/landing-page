@@ -71,6 +71,9 @@ nav ul li a{
     color: white;
     padding: 8px 30px;
 }
+
+/* second section */
+
 .random-info{
     display: flex;
     justify-content: center;
